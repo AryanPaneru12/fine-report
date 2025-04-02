@@ -12,17 +12,6 @@ A web application designed to simplify financial data analysis by automating key
 - **PDF Exporting** – Generate and download financial reports in PDF format.
 - **Scalable & Modular Design** – Easily extendable for future enhancements, including AI-driven forecasting.
 
-## 📂 Project Structure
-```
-📁 finreport-web-analyzer
-│── 📂 src
-│   │── 📂 components  # Reusable UI components
-│   │── 📂 pages       # App pages (Dashboard, Reports, etc.)
-│   │── 📂 utils       # Helper functions for data processing
-│── 📂 public          # Static assets
-│── 📄 package.json    # Dependencies and scripts
-│── 📄 README.md       # Project documentation
-```
 
 ## 🛠️ Installation & Setup
 
